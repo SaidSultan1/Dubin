@@ -1,0 +1,56 @@
+/* 
+Theme Name: Dubin Theme
+Author Name : Said
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", sans-serif;
+    color: #333;
+    margin: 0 0 20px 0;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 26px;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+h6 {
+    font-size: 16px;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+    border-bottom: 1px solid #337ab7;
+}
+
+a:hover {
+    color: #23527c;
+    border-color: #23527c;
+}
+
+p {
+    margin: 0 0 20px 0;
+}
